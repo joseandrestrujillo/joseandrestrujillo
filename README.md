@@ -41,7 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseandrestrujillo&show_icons=true&locale=en&layout=compact&theme=dark" alt="joseandrestrujillo" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joseandrestrujillo&theme=dark" alt="joseandrestrujillo" /></p>
 
-<p><img align="center" style="padding-top: 30px; width: 100%;"src="https://github-contributor-stats.vercel.app/api?username=joseandrestrujillo&limit=6&theme=dark&combine_all_yearly_contributions=true" alt="joseandrestrujillo" /></p>
+<p><img align="center" style="padding-top: 30px"src="https://github-contributor-stats.vercel.app/api?username=joseandrestrujillo&limit=6&theme=dark&combine_all_yearly_contributions=true" alt="joseandrestrujillo" /></p>
 
 
 <!--
