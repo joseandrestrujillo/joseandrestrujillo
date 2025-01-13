@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm José Andrés</h1>
 <h3 align="center">A passionate software engineer in progress</h3>
 
-- 🔭 I’m currently working on [Spanish by Celia](https://www.spanishbycelia.com)
+- 🔭 I’m currently working on [Interactvty](https://www.interactvty.com/)
 
 - 🌱 I’m currently learning **AWS, DDD, TDD, Software Architecture**
 
