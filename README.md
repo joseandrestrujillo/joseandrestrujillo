@@ -4,15 +4,13 @@
 
 - 🔭 I’m currently working on [Trevenque Group](https://www.trevenque.es/)
 
-- 🌱 I’m currently learning **AWS, DDD, TDD, Software Architecture**
-
 <!-- 
 - 👨‍💻 All of my projects are available at [here](here)
 
 - 📝 I regularly write articles on [prox](prox)
 -->
 
-- 💬 Ask me about **react, typescript, docker, aws**
+- 💬 Ask me about **Python, AWS, DDD, TDD, Software Architecture**
 
 - 📫 How to reach me **trujillohenaresj@gmail.com**
 <!-- 
